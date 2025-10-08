@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1748982560 source:f:\onedrive\documentos\trabalhosc\escolaprojetoc\main.c
+	<stdio.h>
+	<string.h>
+
+1759858199 source:f:\onedrive\documentos\trabalhosc\escolaprojetoc\produto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"produto.h"
+
+1759857911 f:\onedrive\documentos\trabalhosc\escolaprojetoc\produto.h
+
